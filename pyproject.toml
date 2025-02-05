@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "electronic-health-records"
+version = "0.1.0"
+description = ""
+authors = ["Nicholas Lee <nicklee0101@gmail.com>"]
+readme = "README.md"
+packages = [{include = "electronic_health_records"}]
+
+[tool.poetry.dependencies]
+python = "^3.12"
+kaggle = "^1.6.17"
+pandas = "^2.2.3"
+numpy = "^2.2.2"
+matplotlib = "^3.10.0"
+seaborn = "^0.13.2"
+scikit-learn = "^1.6.1"
+ipykernel = "^6.29.5"
+kagglehub = "^0.3.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
