@@ -1,0 +1,37 @@
+
+2025-02-05 12:43:04,146 - INFO - Model: Logistic Regression, Accuracy: 0.7122356495468278
+2025-02-05 12:43:04,148 - INFO - Model: Decision Tree, Accuracy: 0.6608761329305136
+2025-02-05 12:43:04,151 - INFO - Model: Neural Network, Accuracy: 0.7507552870090635
+2025-02-05 12:43:04,170 - INFO - Model: Random Forest, Accuracy: 0.75
+2025-02-05 12:43:04,175 - INFO - Model: Gradient Boosting, Accuracy: 0.7371601208459214
+2025-02-05 12:43:06,457 - INFO - Model: Logistic Regression, F1 Score: 0.5976768743400211
+2025-02-05 12:43:06,463 - INFO - Model: Decision Tree, F1 Score: 0.5884509624197983
+2025-02-05 12:43:06,468 - INFO - Model: Neural Network, F1 Score: 0.6758349705304518
+2025-02-05 12:43:06,489 - INFO - Model: Random Forest, F1 Score: 0.6758080313418218
+2025-02-05 12:43:06,495 - INFO - Model: Gradient Boosting, F1 Score: 0.6484848484848484
+2025-02-05 12:56:30,328 - INFO - Model: Logistic Regression, Accuracy: 0.7122356495468278
+2025-02-05 12:56:30,335 - INFO - Model: Decision Tree, Accuracy: 0.6586102719033232
+2025-02-05 12:56:30,345 - INFO - Model: Neural Network, Accuracy: 0.7416918429003021
+2025-02-05 12:56:30,371 - INFO - Model: Random Forest, Accuracy: 0.7477341389728097
+2025-02-05 12:56:30,378 - INFO - Model: Gradient Boosting, Accuracy: 0.7371601208459214
+2025-02-05 12:56:30,419 - INFO - Model: Logistic Regression, F1 Score: 0.5976768743400211
+2025-02-05 12:56:30,427 - INFO - Model: Decision Tree, F1 Score: 0.5845588235294118
+2025-02-05 12:56:30,442 - INFO - Model: Neural Network, F1 Score: 0.6647058823529411
+2025-02-05 12:56:30,473 - INFO - Model: Random Forest, F1 Score: 0.6706114398422091
+2025-02-05 12:56:30,488 - INFO - Model: Gradient Boosting, F1 Score: 0.6484848484848484
+2025-02-05 13:10:54,114 - INFO - Model: Logistic Regression, Accuracy: 0.7122356495468278
+2025-02-05 13:10:54,118 - INFO - Model: Decision Tree, Accuracy: 0.6638972809667674
+2025-02-05 13:10:54,126 - INFO - Model: Neural Network, Accuracy: 0.7507552870090635
+2025-02-05 13:10:54,154 - INFO - Model: Random Forest, Accuracy: 0.7386706948640483
+2025-02-05 13:10:54,160 - INFO - Model: Gradient Boosting, Accuracy: 0.736404833836858
+2025-02-05 13:10:54,182 - INFO - Model: Logistic Regression, F1 Score: 0.5976768743400211
+2025-02-05 13:10:54,190 - INFO - Model: Decision Tree, F1 Score: 0.58758109360519
+2025-02-05 13:10:54,203 - INFO - Model: Neural Network, F1 Score: 0.6833013435700576
+2025-02-05 13:10:54,229 - INFO - Model: Random Forest, F1 Score: 0.6614481409001957
+2025-02-05 13:10:54,238 - INFO - Model: Gradient Boosting, F1 Score: 0.6478304742684158
+2025-02-05 14:34:09,751 - INFO - 
+    Model: XGBoost, Accuracy: 0.8503886010362695, F1 Score: 0.7962962962962963, ROC AUC: 0.7945178461099758, Confusion Matrix: [[657 137]
+ [207 323]], Features: Index(['HAEMATOCRIT', 'HAEMOGLOBINS', 'ERYTHROCYTE', 'LEUCOCYTE',
+       'THROMBOCYTE', 'AGE', 'SEX'],
+      dtype='object')
+    

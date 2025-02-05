@@ -6,16 +6,24 @@ authors = ["Nicholas Lee <nicklee0101@gmail.com>"]
 readme = "README.md"
 packages = [{include = "electronic_health_records"}]
 
+
 [tool.poetry.dependencies]
 python = "^3.12"
 kaggle = "^1.6.17"
 pandas = "^2.2.3"
-numpy = "^2.2.2"
+numpy = ">=1.16.0,<2.0"
 matplotlib = "^3.10.0"
 seaborn = "^0.13.2"
 scikit-learn = "^1.6.1"
 ipykernel = "^6.29.5"
 kagglehub = "^0.3.7"
+joblib = "^1.4.2"
+jupyter = "^1.1.1"
+ipywidgets = "^8.1.5"
+shap = "^0.46.0"
+catboost = "^1.2.7"
+lime = "^0.2.0.1"
+xgboost = "^2.1.3"
 
 
 [build-system]
